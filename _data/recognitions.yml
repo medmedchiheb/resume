@@ -4,12 +4,12 @@
   year: 2017
   summary: https://www.youracclaim.com/badges/ca368451-6e1f-4b70-b84c-e07b358b9ef1
 
-- award: CKA: Certified Kubernetes Administrator
+- award: 'CKA: Certified Kubernetes Administrator'
   organization: The Linux Foundation
   year: 2019
   summary: https://www.youracclaim.com/badges/c125d117-7458-4f4e-b9ab-86cf6fed9307
 
-- award: CKAD: Certified Kubernetes Application Developer
+- award: 'CKAD: Certified Kubernetes Application Developer'
   organization: The Linux Foundation
   year: 2019
   summary: https://www.youracclaim.com/badges/ac1e841e-d13d-418f-8a51-5dcc8eb1ae90
