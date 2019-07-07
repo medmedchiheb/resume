@@ -1,19 +1,31 @@
 # Jobs
 # VP of Global Communications
-- company: Springfield International Human Rights Outreach
-  position: VP of Global Communications
-  duration: Oct, 2013 &mdash; Present
-  summary: Write about your core competencies in one or two sentences describing your position. If you held the position for a long time, it could be a longer section, including a couple bullet points	<ul class="resume-item-list"><li>A project you are proud of</li><li>Another awesome project</li><li>or a team or department you worked with</li></ul>
+- company: think tank business solutions
+  position: Fullstack developer
+  duration: Oct, 2018 &mdash; Present
+  summary: <ul> <li> BMW-BRIO: a product for projects managements, client BMW. the most
+important in this product it sync data with JIRA. (JAVA, JEE, JERSEY, ANGULAR, AngularJs, Jenkins, Sonar, Selenium, TDD/BDD, cucumber..)</li>
+
+<li>SYRCOT: registre national des entreprises, client INNORPI. sync ORACLE<
+DB ETL with talend, integration of a search module (JAVA, JEE, ORACLE, TALEND, SPRING, STRUTS..) . https://www.registre-commerce.tn </li>
+
+<li>Charity Shopping: mobile app for purchasing and donations, client
+connexxtion, lead developer (IONIC, ANGULAR,). https://kauft-lokal.de/</li>
+
+<li>WEBP: project for finance reporting and analytics, client IDS GmbH. (JAVA, Spring, Spring boot, Extjs, jenkins, docker..)</li>
+<li>Internship supervisor: project generating liquibase structure for multi-db.(JAVA, SQL,LIQUIBASE.) </li> </ul>
 
 # Director of Digital Stratgy
-- company: United Nations Human Rights Council
-  position: Director of Digital Strategy
-  duration:  Jun, 2010 &mdash; Sept, 2013
-  summary: If your stint was shorter, feel free to be brief and just call out the most meaningful points of your role. Be concise, and be meaninful. The person reading just needs enough to want to talk to you more about your experience.
+- company: OCTADEV
+  position: Fullstack developer
+  duration:  mars, 2018 &mdash; August, 2018
+  summary: <ul><li>developing new features for existing projects (JAVA,JEE, HTML..)</li>
+<li>building web admin panel (VUE.js, HTML, JS..)</li>
+<li>building Android app (Android, Firebase..)</li></ul>
 
 
 # Communications Coordinator
 - company: Springfield Women & Children's Center
-  position: Communications Coordinator
-  duration:   Jun, 2008  &mdash; May, 2010
-  summary: Led communication efforts across digital and traditional media channels for marketing and public relations, internal communication strategies, and coordinated support programs for the recipients of the center's services.
+  position: Freelance fullstack developer
+  duration:   Jun, 2016  &mdash; Feb, 2018
+  summary: developing and maintaining freelance projects JAVA,JEE,ANDROID,Postgres.. Portfolio: https://www.behance.net/mcbenjemaae966  

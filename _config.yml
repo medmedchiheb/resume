@@ -23,7 +23,15 @@ resume_contact_address:         "cite khadhra, Tunis"
 resume_header_contact_info:     "cite khadhra, Tunis • +21623388096 • mc.benjemaa@gmail.com"
 display_header_contact_info:    "false"
 
-resume_header_intro: "<p>This is the executive summary. You should write a few brief, concise, and meaningful sentences about yourself from a professional context, and your immediate career goals. Make the length appropriate for your needs, but keep it brief and concise</p>"
+resume_header_intro: "<p> DevOps & Fullstack developer with over 2 years of experience.
+
+Main interests: JAVA/JEE, Opensource, cloud-native, kuberentes.. 
+
+CNCF speaker: https://www.cncf.io/speaker/meddchiheb/
+
+kuberentes community Member: https://github.com/medmedchiheb
+
+  </p>"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
@@ -45,14 +53,13 @@ resume_section_associations:    true
 # Resume social links
 # uncomment the options you wish to display, and add your own URL
 resume_social_links:
-  resume_github_url:            "https://github.com/jglovier/resume-template"
-  resume_twitter_url:           "http://twitter.com/jglovier"
-  resume_dribbble_url:          "https://dribbble.com/jag"
+  resume_github_url:            "https://github.com/medmedchiheb"
+  resume_twitter_url:           "http://twitter.com/mcbenjemaa"
   # resume_facebook_url:          "insert Facebook URL here"
-  resume_linkedin_url:          "https://www.linkedin.com/in/joelglovier"
+  resume_linkedin_url:          "https://www.linkedin.com/in/mohamed-chiheb-ben-jemaa-5b6357113/"
   # resume_instagram_url:         "insert your Instagram URL here"
-  resume_website_url:           "http://joelglovier.com"
-  resume_medium_url:            "https://medium.com/@jglovier"
+  resume_website_url:           "https://medmedchiheb.github.io/resume/"
+  resume_medium_url:            "https://medmedchiheb.github.io/resume/"
 resume_print_social_links:      true
 
 # Design settings

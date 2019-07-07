@@ -1,10 +1,16 @@
 # Recognitions
-- award: Outstanding Achievement
-  organization: Springfield Young Professionals
-  year: 2010, 2014
-  summary: Awarded the Outstanding Achievement award for contributions made to the community and professional accomplishments.
+- award: Oracle Certified Associate, Java SE 8 Programmer
+  organization: Oracle
+  year: 2017
+  summary: https://www.youracclaim.com/badges/ca368451-6e1f-4b70-b84c-e07b358b9ef1
 
-- award: Most Likely To Succeed
-  organization: Springfield High School
-  year: 2004
-  summary: Voted Most Likely To Succeed by a panel of my high school peers.
+- award: CKA: Certified Kubernetes Administrator
+  organization: The Linux Foundation
+  year: 2019
+  summary: https://www.youracclaim.com/badges/c125d117-7458-4f4e-b9ab-86cf6fed9307
+
+- award: CKAD: Certified Kubernetes Application Developer
+  organization: The Linux Foundation
+  year: 2019
+  summary: https://www.youracclaim.com/badges/ac1e841e-d13d-418f-8a51-5dcc8eb1ae90
+
