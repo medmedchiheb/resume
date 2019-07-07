@@ -25,11 +25,11 @@ display_header_contact_info:    "false"
 
 resume_header_intro: "<p> DevOps & Fullstack developer with over 2 years of experience.
 
-Main interests: JAVA/JEE, Opensource, cloud-native, kuberentes.. 
+<ul> <li>Main interests: JAVA/JEE, Opensource, cloud-native, kuberentes.. </li>
 
-CNCF speaker: https://www.cncf.io/speaker/meddchiheb/
+<li>CNCF speaker: https://www.cncf.io/speaker/meddchiheb/ </li>
 
-kuberentes community Member: https://github.com/medmedchiheb
+<li>kuberentes community Member: https://github.com/medmedchiheb</li></ul>
 
   </p>"
 
