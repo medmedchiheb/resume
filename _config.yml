@@ -11,7 +11,7 @@ sass:
 # Resume settings
 resume_avatar:                  "true"
 resume_name:                    "Mohamed chiheb ben jemaa"
-resume_title:                   "DevOps & Full Stack developer"
+resume_title:                   "<b>DevOps & Full Stack developer<b>"
 
 # used for the contact button in _layouts/resume.html
 resume_contact_email:           "mc.benjemaa@gmail.com"
@@ -25,11 +25,11 @@ display_header_contact_info:    "false"
 
 resume_header_intro: "<p> DevOps & Fullstack developer with over 2 years of experience.
 
-<ul> <li>Main interests: JAVA/JEE, Opensource, cloud-native, kuberentes.. </li>
+<ul> <li><b>Main interests:</b> JAVA/JEE, Opensource, cloud-native, kuberentes.. </li>
 
-<li>CNCF speaker: https://www.cncf.io/speaker/meddchiheb/ </li>
+<li><b>CNCF speaker:</b> https://www.cncf.io/speaker/meddchiheb/ </li>
 
-<li>kuberentes community Member: https://github.com/medmedchiheb</li></ul>
+<li><b>kuberentes community Member:</b> https://github.com/medmedchiheb</li></ul>
 
   </p>"
 
