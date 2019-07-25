@@ -1,19 +1,22 @@
 # Recognitions
-- award: Oracle Certified Associate, Java SE 8 Programmer
-  organization: Oracle
-  year: 2017
-  summary: https://www.youracclaim.com/badges/ca368451-6e1f-4b70-b84c-e07b358b9ef1
-  logo: images/OCA-medchiheb.png
-
-- award: 'CKA: Certified Kubernetes Administrator'
-  organization: The Linux Foundation
-  year: 2019
-  summary: https://www.youracclaim.com/badges/c125d117-7458-4f4e-b9ab-86cf6fed9307
-  logo: images/logo-cka.png
 
 - award: 'CKAD: Certified Kubernetes Application Developer'
   organization: The Linux Foundation
   year: 2019
   summary: https://www.youracclaim.com/badges/ac1e841e-d13d-418f-8a51-5dcc8eb1ae90
-  logo: images/logo-ckad.png
+  logo: images/logo_ckad.png
+  
+
+- award: 'CKA: Certified Kubernetes Administrator'
+  organization: The Linux Foundation
+  year: 2019
+  summary: https://www.youracclaim.com/badges/c125d117-7458-4f4e-b9ab-86cf6fed9307
+  logo: images/logo_cka.png
+  
+  
+- award: Oracle Certified Associate, Java SE 8 Programmer
+  organization: Oracle
+  year: 2017
+  summary: https://www.youracclaim.com/badges/ca368451-6e1f-4b70-b84c-e07b358b9ef1
+  logo: images/OCA-medchiheb.png  
 
