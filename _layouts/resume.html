@@ -20,16 +20,12 @@
         <h1 class="header-name" itemprop="name">{{ site.resume_name }}</h1>
         
         <!-- Certifications badges -->
-        <div style="display: block;margin-top: 10px;text-align: center;max-width: 100%;">
-    
-                {% for recognition in site.data.recognitions %}
-       
-            <img widht="80px" src="{{ recognition.logo }}" style="
-                max-width: 50;
-                width: 50;
-                height: 50;
-            " height="80" />
-          
+        <div class="cert-badges">
+             
+            {% for recognition in site.data.recognitions %}
+
+              <img widht="80px" src="{{ recognition.logo }}"  />
+
             {% endfor %}
     
         </div>
