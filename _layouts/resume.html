@@ -22,24 +22,15 @@
         <!-- Certifications badges -->
         <div style="display: block;margin-top: 10px;text-align: center;max-width: 100%;">
     
-
-          <img widht="80px" src="https://training.linuxfoundation.org/wp-content/uploads/2018/06/logo_cka_whitetext.png" style="
-              max-width: 50;
-              width: 50;
-              height: 50;
-          " height="80"><img widht="80px" src="https://training.linuxfoundation.org/wp-content/uploads/2018/06/logo_cka_whitetext.png" style="
-              max-width: 50;
-              width: 50;
-              margin-left: 25px;
-              height: 50;
-          " height="80">
-
-          <img widht="80px" src="https://brm-certview.oracle.com/pls/certview/get_ocp_logo?p_id=1370" style="
-              max-width: 50;
-              width: 50;
-              margin-left: 25px;
-              height: 50;
-          " height="80">
+                {% for recognition in site.data.recognitions %}
+       
+            <img widht="80px" src="{{ recognition.logo }}" style="
+                max-width: 50;
+                width: 50;
+                height: 50;
+            " height="80" />
+          
+            {% endfor %}
     
         </div>
 
