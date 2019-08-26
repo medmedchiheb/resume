@@ -1,5 +1,11 @@
 # Recognitions
 
+- award: 'Google Cloud Certified Associate Cloud Engineer'
+  organization: Google
+  year: 2019
+  summary: https://www.credential.net/qbbscmrs?key=bb195f6485d67588dfe8270c89b3fd2c75548bca8b9f3a4c4de27e1f9c11c993
+  logo: images/GCP_badge.png
+  
 - award: 'CKAD: Certified Kubernetes Application Developer'
   organization: The Linux Foundation
   year: 2019
