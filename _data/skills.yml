@@ -1,63 +1,49 @@
 # Skills
 # Organizational leadership
-- skill: JAVA
+- skill: kubernetes
   description: 
 
 # Communications strategy
-- skill: JEE
+- skill: cloud-native
   description: 
 
 # Digital content development and creation
-- skill: Spring
+- skill: docker
   description: 
-
-- skill: Angular
-  description: 
-  
-- skill: HTML/CSS
-  description:  
-
-- skill: Javascript
-  description:  
-
-- skill: JQuery
-  description:  
-
-- skill: VUE.js
-  description:  
-
-- skill: ionic
-  description:    
-
-- skill: ANDROID
-  description:    
-
-- skill: SQL
-  description:    
-
-- skill: Hibernate
-  description:   
-
-- skill: MYSQL
-  description:       
-
-- skill: Postgres
-  description:     
-
-- skill: JPA
-  description:     
-
-- skill: ORACLE
-  description:    
 
 - skill: linux
+  description: 
+  
+- skill: microservices
+  description:  
+
+- skill: cloud computing
+  description:  
+
+- skill: Google Cloud Platform
+  description:  
+
+- skill: Jenkins
+  description:  
+
+- skill: DevOps
+  description:    
+  
+- skill: JAVA/JEE
+  description:     
+
+- skill: Sring Framework
+  description: 
+
+- skill: SQL/Hibernate
+  description:       
+
+- skill: SGBD (Oracle, Postgres, Mysql..)
+  description:     
+   
+- skill: Frontend (Angular, VueJs..)
   description:    
 
-- skill: docker
-  description:    
-
-- skill: kubernetes
-  description:      
 
 
 
