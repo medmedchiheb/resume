@@ -2,17 +2,17 @@
 # VP of Global Communications
 - company: think tank business solutions
   position: Fullstack developer
-  duration: Oct, 2018 &mdash; Present
-  summary: '<ul> <li> BMW-BRIO:: a product for projects managements, client BMW. the most
-important in this product it sync data with JIRA. (JAVA, JEE, JERSEY, ANGULAR, AngularJs, Jenkins, Sonar, Selenium, TDD/BDD, cucumber..)</li>
+  duration: Oct, 2018 &mdash; Oct, 2019
+  summary: '<ul> <li>Project-1: a product for projects managements. sync data with JIRA.
+  (JAVA, JEE, JERSEY, ANGULAR, AngularJs, Jenkins, Sonar, Selenium, TDD/BDD, cucumber..)</li>
 
-<li>SYRCOT: registre national des entreprises, client INNORPI. sync ORACLE<
-DB ETL with talend, integration of a search module (JAVA, JEE, ORACLE, TALEND, SPRING, STRUTS..) . https://www.registre-commerce.tn </li>
+<li>Project-2: entreprises registry managements. sync ORACLE
+DB ETL with talend, integration of a search module (JAVA, JEE, ORACLE, TALEND, SPRING, STRUTS..).  </li>
 
-<li>Charity Shopping: mobile app for purchasing and donations, client
-connexxtion, lead developer (IONIC, ANGULAR,). https://kauft-lokal.de/</li>
+<li>Project-3: mobile app for purchasing and donations, lead developer (IONIC, ANGULAR,). </li>
 
-<li>WEBP: project for finance reporting and analytics, client IDS GmbH. (JAVA, Spring, Spring boot, Extjs, jenkins, docker..)</li>
+<li>Project-4: project for data reporting and analytics,
+integration frontend and implementation backend services (JAVA, Spring, Spring MVC, Extjs..)</li>
 </ul>'
 
 # Director of Digital Stratgy
