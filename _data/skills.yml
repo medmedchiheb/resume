@@ -23,11 +23,17 @@
 - skill: Google Cloud Platform
   description:  
 
+- skill: Ansible
+  description: 
+
 - skill: Jenkins
   description:  
 
 - skill: DevOps
-  description:    
+  description:   
+ 
+- skill: IT Automation
+  description:  
   
 - skill: JAVA/JEE
   description:     
