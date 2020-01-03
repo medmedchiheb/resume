@@ -25,6 +25,9 @@
 
 - skill: Ansible
   description: 
+  
+- skill: Terraform
+  description:   
 
 - skill: Jenkins
   description:  
