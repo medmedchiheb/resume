@@ -6,6 +6,7 @@
   summary: '<ul> <li> Maintaining infrastructure: Azure, Bash, terraform</li>
             <li> Building CI/CD cycles: Jenkins, Gitlab CI, Helm, Bash </li>
             <li>Managing Multiple kubernetes clusters: Kubernetes, Azure Aks</li>
+            <li>Develop features and components: Golang, Bash </li>
             <li>Adapting Monitoring of the infrastructure and the clusters: Prometheus, Azure, Grafana</li></ul>' 
 
 
