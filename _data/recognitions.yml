@@ -1,5 +1,12 @@
 # Recognitions
 
+
+- award: 'Google Cloud Certified Professional Cloud Architect'
+  organization: Google
+  year: 2020
+  summary: https://www.credential.net/fc605af3-e556-48aa-ac89-163840b7d7c1
+  logo: images/gcp-architect.png
+
 - award: 'Google Cloud Certified Associate Cloud Engineer'
   organization: Google
   year: 2019
