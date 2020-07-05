@@ -10,8 +10,8 @@ sass:
 
 # Resume settings
 resume_avatar:                  "true"
-resume_name:                    "Mohamed Chiheb Cen Jemaa"
-resume_title:                   "<b>DevOps Engineer </b>"
+resume_name:                    "Mohamed Chiheb Ben Jemaa"
+resume_title:                   "<b>DevOps/SRE Engineer </b>"
 
 # used for the contact button in _layouts/resume.html
 resume_contact_email:           "mc.benjemaa@gmail.com"
