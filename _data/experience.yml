@@ -7,30 +7,38 @@
             <li> Building CI/CD cycles: Jenkins, Gitlab CI, Helm, Bash </li>
             <li>Managing PROD kubernetes clusters: Kubernetes, Azure Aks</li>
             <li>Develop features and components: Golang, Bash, JAVA .. </li>
-            <li>Adapting Monitoring/Logging of the infrastructure: EFK, Prometheus, Thanos, Azure, Grafana ..</li>
+            <li>Adapting Monitoring/Logging of the infrastructure: EFK, Prometheus, Thanos, Azure, Grafana ..</li>' 
             <li>24/7 Support</li></ul>' 
 
 
 - company: think tank business solutions
   position: Software Engineer
   duration: Oct, 2018 &mdash; Oct, 2019
-  summary: '<ul> <li>Develop new features (backend/frontend)(JAVA, JEE, JAX-RS, ANGULAR, AngularJs, Jenkins, TDD/BDD..)</li>
-            <li> Building and maintaining DB sync Pipeline. sync ORACLE
-            DB ETL with talend,  (JAVA, ORACLE, TALEND..).  </li>
-            <li> Integration of new modules e.g. search, details, views ..   (JAVA, JEE, Postgres, SPRING, Angular, elasticsearch, kafka ..).  </li>
-            <li>Building mobile apps [lead developer] (IONIC, ANGULAR, AWS Lambda..). </li>
-            <li> Integrating data reporting and analytics (JAVA, Oracle, Spring, Spring MVC, Extjs..)</li>
-            <li> Integration and UI automation tests (Jenkins, Docker, Sonar, Selenium, cucumber)</li>
-            <li> Building CI/CD cycles (Jenkins, Docker, groovy, bash..)</li>
-            </ul>'
+  summary: '<ul> <li>Develop new features (backend/frontend)
+  (JAVA, JEE, JAX-RS, ANGULAR, AngularJs, Jenkins, TDD/BDD..)</li>
+
+<li> Building and maintaining DB sync Pipeline. sync ORACLE
+DB ETL with talend,  (JAVA, ORACLE, TALEND..).  </li>
+
+<li> Integration of new modules e.g. search, details, views ..   (JAVA, JEE, Postgres, SPRING, Angular, elasticsearch, kafka ..).  </li>
+
+<li>Building mobile apps [lead developer] (IONIC, ANGULAR, AWS Lambda..). </li>
+
+<li> Integrating data reporting and analytics (JAVA, Oracle, Spring, Spring MVC, Extjs..)</li>
+
+<li> Integration and UI automation tests (Jenkins, Docker, Sonar, Selenium, cucumber)</li>
+
+
+<li> Building CI/CD cycles (Jenkins, Docker, groovy, bash..)</li>
+</ul>'
 
 # Director of Digital Stratgy
 - company: OCTADEV
   position: Fullstack Engineer (entry level).
   duration:  mars, 2018 &mdash; August, 2018
   summary: '<ul><li>developing new features for existing projects (JAVA,JEE, HTML..)</li>
-            <li>building web admin panel (VUE.js, HTML, JS..)</li>
-            <li>building Android app (Android, Firebase..)</li></ul>'
+<li>building web admin panel (VUE.js, HTML, JS..)</li>
+<li>building Android app (Android, Firebase..)</li></ul>'
 
 
 # Communications Coordinator
@@ -44,16 +52,23 @@
   position: Trainee
   duration:   Jun, 2016  &mdash; Sep, 2016
   summary: 'Internship validation of credit: ISET-SF-Notes-app <br>
-            Development of a web app for management handing over the notes: <br>
-            technologies: JAVA, JEE, Spring, Spring boot, AngularJS <br>
-            https://www.behance.net/gallery/68689259/ISET-SF-Notes-app '
+
+Development of a web app for management handing over the notes: <br>
+
+technologies: JAVA, JEE, Spring, Spring boot, AngularJS <br>
+
+https://www.behance.net/gallery/68689259/ISET-SF-Notes-app '
 
 
 - company: EMI
   position: Trainee
   duration:   Jan, 2016  &mdash; Jun, 2016
   summary: 'End of study internship: Rent-A-Car <br>
-            Design and development of a web and mobile platform for the management of car rental agencies<br>
-            4-tier architecture<br>
-            technologies: JAVA, JEE, EJB, JBOSS, TOMCAT, JAX-RS, JERSEY, ANDROID<br>
-            https://www.behance.net/gallery/68688899/Rent-A-Car'
+
+Design and development of a web and mobile platform for the management of car rental agencies<br>
+
+4-tier architecture<br>
+
+technologies: JAVA, JEE, EJB, JBOSS, TOMCAT, JAX-RS, JERSEY, ANDROID<br>
+
+https://www.behance.net/gallery/68688899/Rent-A-Car'
