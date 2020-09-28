@@ -3,42 +3,44 @@
 - company: MaibornWolff
   position: DevOps Engineer
   duration: Nov, 2019 &mdash; Present
-  summary: '<ul> <li> Maintaining infrastructure: Azure, Bash, terraform</li>
+  summary: '<ul> <li> Maintaining infrastructure: Azure, terraform Bash.. </li>
             <li> Building CI/CD cycles: Jenkins, Gitlab CI, Helm, Bash </li>
-            <li>Managing Multiple kubernetes clusters: Kubernetes, Azure Aks</li>
-            <li>Develop features and components: Golang, Bash </li>
-            <li>Adapting Monitoring of the infrastructure and the clusters: Prometheus, Azure, Grafana</li></ul>' 
-
+            <li>Managing PROD kubernetes clusters: Kubernetes, Azure Aks</li>
+            <li>Develop features and components: Golang, JAVA, Bash.. </li>
+            <li>Adapting Monitoring/Logging of the infrastructure and the clusters: EFK, Prometheus, Thanos Azure, Grafana..</li>
+            <li>24/7 Support</li></ul>'
 
 - company: think tank business solutions
   position: Fullstack developer
   duration: Oct, 2018 &mdash; Oct, 2019
-  summary: '<ul> <li>Project-1: a product for projects managements. sync data with JIRA.
-  (JAVA, JEE, JERSEY, ANGULAR, AngularJs, Jenkins, Sonar, Selenium, TDD/BDD, cucumber..)</li>
+  summary: '<ul> <li>Develop new features (backend/frontend)(JAVA, JEE, JAX-RS, ANGULAR, AngularJs, Jenkins, TDD/BDD..)</li>
 
-<li>Project-2: entreprises registry managements. sync ORACLE
-DB ETL with talend, integration of a search module (JAVA, JEE, ORACLE, TALEND, SPRING, STRUTS..).  </li>
+<li>Building and maintaining DB sync Pipeline. sync ORACLE
+      DB ETL with talend,  (JAVA, ORACLE, TALEND..). </li>
 
-<li>Project-3: mobile app for purchasing and donations, lead developer (IONIC, ANGULAR,). </li>
+<li>Integration of new modules e.g. search, details, views ..   (JAVA, JEE, Postgres, SPRING, Angular, elasticsearch, kafka ..).  </li>
 
-<li>Project-4: project for data reporting and analytics,
-integration frontend and implementation backend services (JAVA, Spring, Spring MVC, Extjs..)</li>
+<li>Building mobile app [lead developer] (IONIC, ANGULAR, AWS Lambda..).</li>
+<li>Integrating data reporting and analytics (JAVA, Oracle, Spring, Spring MVC, Extjs..).</li>
+<li> Integration and UI automation tests (Jenkins, Docker, Sonar, Selenium, cucumber ..).</li>
+<li>Building CI/CD cycles (Jenkins, Docker, groovy, bash..).</li>
+
 </ul>'
 
 # Director of Digital Stratgy
 - company: OCTADEV
   position: Fullstack developer
   duration:  mars, 2018 &mdash; August, 2018
-  summary: '<ul><li>developing new features for existing projects (JAVA,JEE, HTML..)</li>
-<li>building web admin panel (VUE.js, HTML, JS..)</li>
-<li>building Android app (Android, Firebase..)</li></ul>'
+  summary: '<ul><li>Developing new features for existing projects (JAVA,JEE, HTML..)</li>
+<li>Building web panel for admin (VUE.js, HTML, JS..)</li>
+<li>Building Android app (Android, Firebase..)</li></ul>'
 
 
 # Communications Coordinator
 - company: Freelance
   position: Freelance fullstack developer
   duration:   Jun, 2016  &mdash; Feb, 2018
-  summary: 'developing and maintaining freelance projects JAVA,JEE,ANDROID,Postgres.. Portfolio: https://www.behance.net/mcbenjemaae966 '
+  summary: 'Developing and maintaining freelance projects JAVA,JEE,ANDROID,Postgres.. Portfolio: https://www.behance.net/mcbenjemaae966 '
 
 
 - company: Higher Institute of Technological Studies of Sfax
