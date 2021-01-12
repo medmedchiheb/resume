@@ -3,11 +3,13 @@
 - company: MaibornWolff
   position: DevOps Engineer
   duration: Nov, 2019 &mdash; Present
-  summary: '<ul> <li> Maintaining infrastructure: Azure, terraform Bash.. </li>
+  summary: '<ul> <li> Maintaining infrastructure: terraform, Azure, , Bash.. </li>
             <li> Building CI/CD cycles: Jenkins, Gitlab CI, Helm, Bash </li>
-            <li>Managing PROD kubernetes clusters: Kubernetes, Azure Aks</li>
-            <li>Develop features and components: Golang, JAVA, Bash.. </li>
-            <li>Adapting Monitoring/Logging of the infrastructure and the clusters: EFK, Prometheus, Thanos Azure, Grafana..</li>
+            <li>Managing Prodcution kubernetes clusters: Kubernetes, Azure AKS, kubeadm</li>
+            <li>Develop features and components (e.g. k8s controller) : Golang, JAVA, Bash.. </li>
+            <li>Upgrade and maintain infrastructure application (Helm charts and resources): Elasticsearch, Kafka, Operators ,Helm.. </li>
+            <li>Adapting Monitoring/Logging of the infrastructure: EFK, Fluentd, Prometheus, Thanos, Azure, Grafana..</li>
+            <li>Support Developers </li>
             <li>24/7 Support</li></ul>'
 
 - company: think tank business solutions
