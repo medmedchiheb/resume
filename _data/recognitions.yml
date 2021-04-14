@@ -1,5 +1,11 @@
 # Recognitions
 
+- award: 'Certified Kubernetes Security Specialist'
+  organization: The Linux Foundation
+  year: 2021
+  summary: https://www.credly.com/badges/bd3d09fe-bcfb-4498-a2f8-2980fd405629
+  logo: images/cks.png
+
 - award: 'Google Cloud Certified Professional Cloud DevOps Engineer'
   organization: Google
   year: 2020
