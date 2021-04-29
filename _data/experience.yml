@@ -8,7 +8,9 @@
             <li>Managing Prodcution kubernetes clusters: Kubernetes, Azure AKS, kubeadm</li>
             <li>Develop features and components (e.g. k8s controller) : Golang, JAVA, Bash.. </li>
             <li>Upgrade and maintain infrastructure application (Helm charts and resources): Elasticsearch, Kafka, Operators ,Helm.. </li>
-            <li>Adapting Monitoring/Logging of the infrastructure: EFK, Fluentd, Prometheus, Thanos, Azure, Grafana..</li>
+            <li>Integrating observability and Adapting Monitoring/Logging of the infrastructure: EFK, Fluentd, Prometheus, Azure, Grafana..</li>
+            <li>Integrate Prometheus in HA manner: Prometheus, Thanos, Azure</li>
+            <li>Building and managing ephemeral k8s clusters for testing purposes</li>
             <li>Support Developers </li>
             <li>24/7 Support</li></ul>'
 
