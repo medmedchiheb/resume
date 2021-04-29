@@ -11,7 +11,7 @@
             <li>Integrating observability and Adapting Monitoring/Logging of the infrastructure: EFK, Fluentd, Prometheus, Azure, Grafana..</li>
             <li>Integrate Prometheus in HA manner: Prometheus, Thanos, Azure ..</li>
             <li>Building and managing ephemeral k8s clusters for testing purposes: kubeadm, kubeOne, kubernetes</li>
-            <li>managing CI/CD  Runners instances: Gitlab CI, Jenkins ..</li>
+            <li>Managing CI/CD Runners instances: Gitlab CI, Jenkins ..</li>
             <li>Support Developers </li>
             <li>24/7 Support</li></ul>'
 
