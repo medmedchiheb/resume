@@ -1,4 +1,9 @@
 # Recognitions
+- award: 'HashiCorp Certified: Terraform Associate'
+  organization: HashiCorp 
+  year: 2021
+  summary: https://www.credly.com/badges/57260273-2013-42e5-871b-7677f89b7d97/public_url
+  logo: images/terraform.png
 
 - award: 'Certified Kubernetes Security Specialist'
   organization: The Linux Foundation
