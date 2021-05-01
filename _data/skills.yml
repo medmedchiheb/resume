@@ -1,27 +1,27 @@
 # Skills
 # Organizational leadership
-- skill: kubernetes
+- skill: Kubernetes
   description:
   
 - skill: Golang
   description:  
   
-- skill: docker
-  description: 
-  
-- skill: cloud-native
-  description: 
-
-- skill: microservices
-  description:  
-
-- skill: cloud computing
-  description:  
-
 - skill: Google Cloud Platform
   description:  
+
+- skill: Docker
+  description: 
   
-- skill: linux
+- skill: Cloud-native
+  description: 
+
+- skill: Microservices
+  description:  
+
+- skill: Cloud computing
+  description:  
+
+- skill: Linux
   description: 
 
 - skill: Ansible
